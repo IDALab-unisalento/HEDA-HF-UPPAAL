@@ -7,15 +7,24 @@ This repository contains the UPPAAL model and statistical model checking (SMC) e
 HEDA-HF-UPPAAL/
 
 ├── models/
+
 │ ├── heda_model.xml # Main UPPAAL model file
+
 │ └── heda_declarations.txt # Global declarations
+
 ├── queries/
+
 │ ├── MC_queries.q # Model checking properties Safety;Liveness,robusteness
+
 │ └── SMC_queries.q # Probabilistic model checking  properties
+
 │ 
 ├── results/
+
 │ ├── Outputs.txt # Textual summary of  results
+
 │ └── screenshots/
+
 │ ├── fig6_simulation.png # Example simulation trace
 │ └── fig7_smc_result.png # SMC distribution output
 ├── scripts/
