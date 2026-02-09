@@ -25,12 +25,19 @@ HEDA-HF-UPPAAL/
 │ └── screenshots/
 
 │ ├── fig6_simulation.png # Example simulation trace
+
 │ └── fig7_smc_result.png # SMC distribution output
+
 ├── scripts/
+
 │ ├── run_smc_config.json # Example SMC configuration
+
 │ └── example_trace.xta # Optional simulation script
+
 ├── LICENSE
+
 └── README.md
+
 
 ## 🧪 Usage
 - Open the `models/heda_model.xml` in **UPPAAL SMC**.
