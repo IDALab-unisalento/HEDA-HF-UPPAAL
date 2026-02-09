@@ -5,6 +5,7 @@ This repository contains the UPPAAL model and statistical model checking (SMC) e
 
 ## 📁 Directory Structure
 HEDA-HF-UPPAAL/
+
 ├── models/
 │ ├── heda_model.xml # Main UPPAAL model file
 │ └── heda_declarations.txt # Global declarations
